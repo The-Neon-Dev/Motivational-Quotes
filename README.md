@@ -1,3 +1,4 @@
+
 # Motivational-Quotes
 New to Hacktoberfest and needed simple projects ? Welcome
 
@@ -29,3 +30,12 @@ Let's start the hack ⚡!!! Follow the steps below and make sure to go through a
 - [X] Stay back and chill 💃, wait for review by maintainers.
 
 Love 💓 this? Wanna buy us some cofee? A star ⭐ is better! Thanks.
+=======
+Love 💓 this? Wanna buy us some cofee? A star ⭐ is better!
+=======
+# Motivational Quotes 🤍
+
+Motivation reflects something unique about each one of us and allows us to gain valued outcomes like improved performance, enhanced well-being, personal growth, or a sense of purpose. Motivation is a pathway to change our way of thinking, feeling, and behaving.
+
+Feel free to join this open source project by adding your favourite motivational quotes💖. 
+
