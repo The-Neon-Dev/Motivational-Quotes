@@ -29,6 +29,8 @@ Let's start the hack ⚡!!! Follow the steps below and make sure to go through a
 - [X] Open a pull request from our github account to this repository.
 - [X] Stay back and chill 💃, wait for review by maintainers.
 
+Love 💓 this? Wanna buy us some cofee? A star ⭐ is better! Thanks.
+=======
 Love 💓 this? Wanna buy us some cofee? A star ⭐ is better!
 =======
 # Motivational Quotes 🤍
